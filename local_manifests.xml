@@ -38,6 +38,6 @@
     <project path="hardware/qcom-caf/sm6225/data-ipa-cfg-mgr" name="hardware_qcom-caf_sm6225_data-ipa-cfg-mgr" remote="xiaomi-sapphire" revision="14" />
     <project path="hardware/qcom-caf/sm6225/audio/pal" name="hardware_qcom-caf_sm6225_audio_pal" remote="xiaomi-sapphire" revision="14" />
     <project path="hardware/qcom-caf/sm6225/display" name="hardware_qcom-caf_sm6225_display" remote="xiaomi-sapphire" revision="14" />
-    <project path="hardware/qcom-caf/sm6225/audio/primary-hal" name="hardware_qcom-caf_sm6225_audio_primary-hal" remote="xiaomi-sapphire" revision="14" />
+    <project path="hardware/qcom-caf/sm6225/audio/primary-hal" name="hardware_qcom-caf_sm6225_audio_primary-hal" remote="saroj-nokia" revision="14" />
 
 </manifest>

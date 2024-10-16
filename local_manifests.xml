@@ -9,7 +9,7 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire-recovery" remote="saroj-nokia" revision="14.0" />
+    <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire-recovery" remote="saroj-nokia" revision="twrp-sapphire" />
 
     <!-- Device - Common -->
 

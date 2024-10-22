@@ -29,7 +29,7 @@
 
     <!-- Vendor - Common -->
     <!-- Hardware -->
-    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="sm6225-sapphire" revision="14" />
+    <project path="hardware/xiaomi" name="hardware_xiaomi" remote="sm6225-sapphire" revision="14" />
 
 />
 

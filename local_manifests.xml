@@ -3,8 +3,6 @@
 <!-- Generated using sounddrill31/actions_generate_local_manifests -->
 
     <!-- Remotes -->
-    <remote name="Saroj-Tajpuriya" fetch="https://gitlab.com/Saroj-Tajpuriya" clone-depth="1" />
-    <remote name="LineageOS" fetch="https://github.com/LineageOS" clone-depth="1" />
     <remote name="kibria5" fetch="https://gitlab.com/kibria5" clone-depth="1" />
     <remote name="sm6225-sapphire" fetch="https://github.com/sm6225-sapphire" clone-depth="1" />
     <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
@@ -23,7 +21,6 @@
     <!-- Kernel -->
 
     <!-- Vendor -->
-    <project path="vendor/gms" name="vendor_gapps14" remote="Saroj-Tajpuriya" revision="udc" />
     <project path="vendor/xiaomi/miuicamera-sapphire" name="vendor_xiaomi_miuicamera-sapphire" remote="kibria5" revision="14" />
     <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="saroj-nokia" revision="14" />
 

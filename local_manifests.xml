@@ -5,6 +5,7 @@
     <!-- Remotes -->
     <remote name="sm6225-sapphire" fetch="https://github.com/sm6225-sapphire" clone-depth="1" />
     <remote name="saroj-nokia" fetch="https://github.com/saroj-nokia" clone-depth="1" />
+    <remote name="Saroj-Tajpuriya" fetch="https://gitlab.com/Saroj-Tajpuriya" clone-depth="1" />
 
     <!-- Removals -->
 
@@ -20,6 +21,7 @@
 
     <!-- Vendor -->
     <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="saroj-nokia" revision="14" />
+    <project path="vendor/gms" name="vendor_gms14" remote="Saroj-Tajpuriya" revision="fourteen" />
 
     <!-- Vendor - Common -->
     <!-- Hardware -->

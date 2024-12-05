@@ -10,7 +10,7 @@
 
     <!-- Repos -->
     <!-- Device -->
-    <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="sapphire-sm6225" revision="14" />
+    <project path="device/xiaomi/sapphire-kernel" name="device_xiaomi_sapphire-kernel" remote="sapphire-sm6225" revision="14.0" />
     <project path="device/xiaomi/sepolicy" name="device_xiaomi_sepolicy" remote="sapphire-sm6225" revision="14" />
     <project path="device/xiaomi/sapphire" name="device_xiaomi_sapphire" remote="sapphire-sm6225" revision="14.0" />
 
@@ -19,7 +19,7 @@
     <!-- Kernel -->
 
     <!-- Vendor -->
-    <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="sapphire-sm6225" revision="14" />
+    <project path="vendor/xiaomi/sapphire" name="vendor_xiaomi_sapphire" remote="sapphire-sm6225" revision="14.0" />
     <project path="vendor/gms" name="vendor_gms14" remote="Saroj-Tajpuriya" revision="fourteen" />
 
     <!-- Vendor - Common -->
